@@ -28,7 +28,7 @@ const Header = () => {
     { name: "About Us", path: "/about" },
     { name: "Areas of Operation", path: "/areas-of-operation", hasDropdown: true },
     { name: "Company Strategy", path: "/strategy" },
-    { name: "HSE Policy", path: "/hse-policy" },
+    
     { name: "Certifications", path: "/certifications" },
     { name: "Clients", path: "/clients" },
     { name: "Contact", path: "/contact" },
