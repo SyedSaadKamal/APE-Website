@@ -46,7 +46,7 @@ const Footer = () => {
                 { name: "About Us", path: "/about" },
                 { name: "Areas of Operation", path: "/areas-of-operation" },
                 { name: "Company Strategy", path: "/strategy" },
-                { name: "HSE Policy", path: "/hse-policy" },
+                { name: "HSE Policy", path: "/about/hse-policy" },
                 { name: "Certifications", path: "/certifications" },
                 { name: "Major Clients", path: "/clients" },
                 { name: "Contact Us", path: "/contact" },
